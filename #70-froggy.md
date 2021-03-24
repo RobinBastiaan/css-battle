@@ -17,7 +17,7 @@ p{position:absolute}
 [t]{width:10;height:10;background:#293462}
 [a]{margin:102 117;width:150;height:100;border-radius:50px;background:radial-gradient(191px at 50%-120%,#FE5F55 99%,#A64942)}
 [b]{margin:77 132}
-  [c]{margin:77 202}
+[c]{margin:77 202}
 [d]{margin:87 142}
 [e]{margin:87 212}
 [f]{margin:97 152}
