@@ -10,7 +10,7 @@
 <p h t r><p i t r>
 <style>
 *{background:#293462}
-p{position:absolute}
+p{position:fixed}
 [r]{border-radius:50%}
 [q]{width:50;height:50;background:#FE5F55}
 [s]{width:30;height:30;background:#FFF1C1}
@@ -23,7 +23,7 @@ p{position:absolute}
 [f]{margin:97 152}
 [g]{margin:97 222}
 [h]{margin:152 177}
-[i]{margin:152 197}
+[i]{margin:152 197
 ```
 
-**Score**: 602.24 (544 chars)(100% match)
+**Score**: 602.33 (540 chars)(100% match)

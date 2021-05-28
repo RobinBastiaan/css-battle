@@ -8,7 +8,7 @@
 <p u i v><p u s j><p u k><p u l>
 <style>
 *{background:#191919}
-p{position:absolute;background:#FE5F55;width:10;height:90}
+p{position:fixed;background:#FE5F55;width:10;height:90}
 [r]{border-radius:50%;width:50;height:40}
 [s]{background:#A64942}
 [u]{width:40;height:10}
@@ -24,7 +24,7 @@ p{position:absolute;background:#FE5F55;width:10;height:90}
 [i]{margin:82 87}
 [j]{margin:82 227}
 [k]{margin:82 297}
-[l]{margin:102 297}
+[l]{margin:102 297
 ```
 
-**Score**: 603.82 (488 chars)(100% match)
+**Score**: 603.93 (485 chars)(100% match)
